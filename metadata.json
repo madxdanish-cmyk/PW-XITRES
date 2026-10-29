@@ -1,0 +1,8 @@
+{
+  "name": "Remix StudyFlow - All-in-One Study Suite \u0026 AI Workspace",
+  "description": "Comprehensive student study workspace featuring Pomodoro focus timer with ambient audio synth, spaced repetition flashcards, Cornell notes, active recall quizzes, exam countdowns, and AI study tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
